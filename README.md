@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, Márcio here 👋
 
+<br>
+
+First, sorry for the mess. I'm Electrical Engineering undegraduate student at UFMG, and not so long ago I decided that I wanted to be a software developer, so that's why my repositories, among other things, are the way they are.
+
+Also I'm a dev intern on PicSize.
+
+<br>
+
+📫 How to reach me: marciorasf@gmail.com
 <!--
 **marciorasf/marciorasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
