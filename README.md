@@ -4,7 +4,7 @@
 
 I'm an Electrical Engineering undegraduate student at UFMG, and not so long ago I decided that I wanted to be a software developer, so that's why my repositories, among other things, are a mess.
 
-Also I'm a dev intern on PicSize.First, sorry for the mess. 
+Also I'm a dev intern on PicSize. 
 
 <br>
 
