@@ -8,7 +8,7 @@ Also I'm a full stack developer at [Bume](https://bume.com/).
 
 <br>
 
-📫 How to reach me: 
+📫 How to reach me: marciorasf@gmail.com
 
 <a href="mailto:marciorasf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
