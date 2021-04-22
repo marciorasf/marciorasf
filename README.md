@@ -2,9 +2,7 @@
 
 <br>
 
-I'm an Electrical Engineer student at UFMG. Not so long ago I decided that I wanted to be a software developer, so that's why my repositories, among other things, are a mess.
-
-Also I'm a full stack developer at [Bume](https://bume.com/).
+I'm a full stack developer at [Bume](https://bume.com/).
 
 <br>
 
