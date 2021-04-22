@@ -2,17 +2,15 @@
 
 <br>
 
-I'm an Electrical Engineering undegraduate student at UFMG. Not so long ago I decided that I wanted to be a software developer, so that's why my repositories, among other things, are a mess.
+I'm an Electrical Engineer student at UFMG. Not so long ago I decided that I wanted to be a software developer, so that's why my repositories, among other things, are a mess.
 
-Also I'm a dev intern on [PicSize](https://picsize.com.br/).
-
-🔭 Besides my internship and undergrad disciplines, I'm working on a [Flashcards](https://marciorasf-flashcards.herokuapp.com/) web app. The basics services are working, but I'm with no time to finish it yet.
-
-🌱 I'm also learning Python and Data Science fundamentals due to undergrad disciplines.
+Also I'm a full stack developer at [Bume](https://bume.com/).
 
 <br>
 
-📫 How to reach me: marciorasf@gmail.com
+📫 How to reach me: 
+![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](marciorasf@gmail.com)
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/marciorasf/)
 <!--
 **marciorasf/marciorasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
