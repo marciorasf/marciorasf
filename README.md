@@ -1,4 +1,4 @@
-### Hi there, Márcio here 👋
+### Hello World, Márcio here 👋
 
 <br>
 
@@ -6,7 +6,7 @@ I'm a software engineer currently working at [Bume](https://bume.com/).
 
 I have a solid Node.js + React.js stack knowledge combined to SQL or NoSQL databases. I also can also work with python and C.
 
-At the moment I'm focused in learning software engineering concepts, including: architecture, cloud computing, clean code, design patterns and deep OOP concepts.
+At the moment, I'm focused in learning software engineering concepts, including: architecture, cloud computing, clean code, design patterns and deep OOP concepts.
 
 
 <br>
@@ -23,4 +23,6 @@ At the moment I'm focused in learning software engineering concepts, including: 
   
 <br>
 
-My personal website: <https://marciorasf.space>.
+<br>
+
+You can also check my personal website: [marciorasf.space](https://marciorasf.space).
