@@ -25,4 +25,4 @@ At the moment, I'm focused in learning software engineering concepts, including:
 
 <br>
 
-You can also check my personal website: [marciorasf.space](https://marciorasf.space).
+:telescope:	You can also check my personal website: [marciorasf.space](https://marciorasf.space).
