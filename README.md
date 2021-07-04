@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a software engineer currently working at [Bume](https://bume.com/).
+I'm a software engineer currently working at [Letalk](https://www.letalk.com.br/).
 
 I have a solid Node.js + React.js stack knowledge combined to SQL or NoSQL databases. I also can also work with Python and C.
 
