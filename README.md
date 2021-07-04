@@ -6,7 +6,7 @@ I'm a software engineer currently working at [Bume](https://bume.com/).
 
 I have a solid Node.js + React.js stack knowledge combined to SQL or NoSQL databases. I also can also work with Python and C.
 
-At the moment, I'm focused in improve my knowledges in Data Structures and Algorithms and software engineering fundamentals.
+At the moment, I'm focused in improve my knowledges in Data Structures and Algorithms, using Python as my main language, and software engineering fundamentals.
 
 
 <br>
