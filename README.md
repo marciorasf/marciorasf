@@ -2,11 +2,11 @@
 
 <br>
 
-I'm a software engineer currently working at [Letalk](https://www.letalk.com.br/).
+I'm a software developer currently working at [Letalk](https://www.letalk.com.br/).
 
-I have a solid Node.js + React.js stack knowledge combined to SQL or NoSQL databases. I also can also work with Python and C.
+I have a solid Node.js + React.js stack knowledge combined to SQL or NoSQL databases. I also can write Python 3 applications and some C programs.
 
-At the moment, I'm focused in improve my knowledges in Data Structures and Algorithms, using Python as my main language, and software engineering fundamentals.
+At the moment, I'm focused in improving my knowledges in the fundamentals of software engineering, such as: Data Structures, Algorithms, SOLID, Design Patterns and Refactoring. Sometimes I study about DevOps and Architectures too.
 
 
 <br>
