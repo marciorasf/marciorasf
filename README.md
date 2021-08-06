@@ -4,9 +4,9 @@
 
 I'm a software developer currently working at [Letalk](https://www.letalk.com.br/).
 
-I have a solid Node.js + React.js stack knowledge combined to SQL or NoSQL databases. I also can write Python 3 applications and some C programs.
+I have a solid Node.js + React.js (both with TypeScript) stack knowledge combined to SQL or NoSQL databases. I also can write Python 3 applications and a little bit of C.
 
-At the moment, I'm focused in improving my knowledges in the fundamentals of software engineering, such as: Data Structures, Algorithms, SOLID, Design Patterns and Refactoring. Sometimes I study about DevOps and Architectures too.
+I'm not the brand new technologies guy. I believe that the fundamentals play a much bigger role on Software Engineer. Some fundamentals that matters a lot to me: Data Structures, Algorithms, SOLID, Design Patterns, Refactoring, Testing, Clean Code, Programming Paradigms. among others.
 
 
 <br>
