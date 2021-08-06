@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a software developer currently working at [Letalk](https://www.letalk.com.br/).
+I'm a software engineer currently working at [Letalk](https://www.letalk.com.br/).
 
 I have a solid Node.js + React.js (both with TypeScript) stack knowledge combined to SQL or NoSQL databases. I also can write Python 3 applications and a little bit of C.
 
