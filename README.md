@@ -6,7 +6,7 @@ I'm a software engineer currently working at [SmarttBot](https://smarttbot.com/)
 
 <br>
 
-📫 How to reach me: marciorasf@gmail.com
+📫 How to reach me: marciorasf@gmail.com.
 
 <a href="mailto:marciorasf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
