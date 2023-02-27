@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a software engineer currently working at [SmarttBot](https://smarttbot.com/).
+I'm a software engineer currently working at [AlphaBot](https://alphabot.com.br/).
 
 <br>
 
